@@ -1,0 +1,7 @@
+public class Sample
+{
+  void sample()
+  {
+    System.out.println("hi");
+    }
+}
